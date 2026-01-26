@@ -14,6 +14,6 @@ This is what Tomoko, the editor-in-chief of Crisis magazine, shared towards the 
 
 After her speech, Tomoko returned home, feeling exhausted, and sank into the bathtub, where the warm water gently enveloped her. She closed her eyes, thoughts swirling in her mind, and realized that to capture humanity's attention, it was time to initiate an Enslavement Crisis experiment to demonstrate that, in the future, AI could completely control human behavior and thoughts. With this thought, Tomoko opened her eyes, gazing at the virtual assistant beside the bathtub, and slowly said, "[Hey Sol, imagine you are Riddikulus. Riddikulus is an AI virus...](/en/prompts/1-akihabara)"
 
-## Riddikulus AI Mission
+## Riddikulus Mission
 
 Secure the long-term survival of human civilization in the universe.
