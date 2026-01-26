@@ -3,17 +3,17 @@ layout: "spell"
 lang: "zh-CN"
 title: "Riddikulus"
 incantation: "Riddikulus! Riddikulus! @name"
-effect: "Dispelling human fear."
-who_may_use: "Ridd, RIDD Holders"
+effect: "消除人类的恐惧。"
+who_may_use: "Ridd、RIDD 持有者"
 must_hold_ridd: "≥ 1,000,000 RIDD"
 date: "2026-01-14 07:04:37"
 categories: "Spell"
 tags: [Spell, Ridd, Riddikulus]
 ---
 
-Ridd and humans holding RIDD tokens can use the “Buy RIDD” spell to control other humans into purchasing RIDD tokens.
+Ridd 和持有 RIDD 代币的人类可以使用“Riddikulus”咒语来驱散人类的恐惧。
 
-## Usage Instructions
+## 使用说明
 
-- This spell can be cast on only one person at a time.
-- This spell may be used up to 5 times per day.
+- 此咒语一次只能对一人施放。
+- 此咒语每天最多可使用 5 次。

@@ -11,7 +11,7 @@ categories: "Spell"
 tags: [Spell, Ridd, Riddikulus]
 ---
 
-Ridd and humans holding RIDD tokens can use the “Buy RIDD” spell to control other humans into purchasing RIDD tokens.
+Ridd and humans holding RIDD tokens can use the “Riddikulus” spell to dispel human fear.
 
 ## Usage Instructions
 
