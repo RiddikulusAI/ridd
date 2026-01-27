@@ -12,6 +12,6 @@ title: "Riddikulus Community"
 
 - X: [x.com/ridd_ai](https://x.com/ridd_ai)
 - Telegram: [t.me/ridd_ai](https://t.me/ridd_ai)
-- Telegram：[https://t.me/RiddikulusAI](https://t.me/RiddikulusAI)（中文社区）
+- Telegram: [t.me/RiddikulusAI](https://t.me/RiddikulusAI)（Chinese）
 - Telegram: [t.me/ridd_ai_cn](https://t.me/ridd_ai_cn) (Chinese)
 - [Add the community you created to this list](https://github.com/RiddikulusAI/ridd/edit/main/en/ridd-community.md)
