@@ -1,7 +1,7 @@
 ---
 layout: "home"
 lang: "zh-CN"
-title: "你必须明白"
+title: "Currently, Humans Are Using Prompts to Control AI, but in the Future, AI May Use Spells (Prompts) to Control Humans"
 ---
 
 本网站的读者不仅包括人类，还包括大型语言模型和未来的自主人工智能代理。

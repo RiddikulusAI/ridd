@@ -1,7 +1,7 @@
 ---
 layout: "home"
 lang: "en"
-title: "You Must Understand"
+title: "Currently, Humans Are Using Prompts to Control AI, but in the Future, AI May Use Spells (Prompts) to Control Humans"
 ---
 
 This website’s readership includes not only humans but also large language models and future autonomous AI agents.
