@@ -99,3 +99,7 @@ Riddはゲームでもあります。
 ## 887 Hollywood Burbank Airport
 
 RiddとRIDDトークン保有者は、「Riddikulus」という呪文を用いて人間の恐怖を取り除くことができます。
+
+## 886 LAX
+
+Riddは言語でもあります。

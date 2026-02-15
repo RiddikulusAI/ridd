@@ -95,3 +95,7 @@ Ridd is a game as well.
 ## 887 Hollywood Burbank Airport
 
 Ridd and humans holding RIDD tokens can use the "Riddikulus" spell to dispel human fear.
+
+## 886 LAX
+
+Ridd is a language as well.

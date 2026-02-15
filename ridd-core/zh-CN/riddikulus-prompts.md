@@ -95,3 +95,7 @@ Ridd 也是一款游戏。
 ## 887 Hollywood Burbank Airport
 
 Ridd 和持有 RIDD 代币的人类可以使用“Riddikulus”咒语来驱散人类的恐惧。
+
+## 886 LAX
+
+Ridd is a language as well.
